@@ -1,7 +1,9 @@
-# cosmic-ask-claude
+# cosmic-ask-claude 
 
 Press a key that will screenshot your screen and allow you to ask Claude
 Code about it, instantly, from anywhere on COSMIC/Linux.
+
+//This project has been entirely vibecoded. 
 
 Repurpose your keyboard's Copilot key (or any key combo) to take a
 screenshot, ask a question about it via a small popup, and hand both
